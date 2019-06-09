@@ -7,6 +7,7 @@ import '../market/market_page.dart';
 import '../notice/notice_page.dart';
 import '../my/my_page.dart';
 
+///首页
 class Index extends StatefulWidget {
 
   @override
